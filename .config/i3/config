@@ -1,0 +1,5 @@
+# Set monitor layout, use arandr program to get the below command for your layout
+exec xrandr --output eDP-1 --off --output HDMI-1-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal
+
+# set a wallapper
+exec feh --bg-scale ~/Pictures/wallpaper.jpg

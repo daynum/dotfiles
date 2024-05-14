@@ -21,4 +21,4 @@ opts = {
 	debug = false,
 }
 
-require("lazy").setup("sharpfox.plugins", opts)
+require("lazy").setup("plugins", opts)

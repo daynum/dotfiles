@@ -1,5 +1,0 @@
-require("sharpfox.config.remap")
-require("sharpfox.config.lazy")
-require("sharpfox.config.autocmd")
-require("sharpfox.config.custom_options")
-require("sharpfox.config.custom_commands")

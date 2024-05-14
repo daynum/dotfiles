@@ -20,4 +20,3 @@ pacman -S ttf-hack-nerd noto-fonts noto-fonts-emoji ttf-dejavu
 pacman -S firefox neovim
 
 # Install zshell, but we'll set it up at end
-
